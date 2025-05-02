@@ -33,7 +33,7 @@ export const links = [
   },
 ] as const;
 
-export const experiencesData: any[] = [
+export const experiencesData = [
   {
     title: "Graduated bootcamp",
     // location: "Miami, FL",
@@ -60,7 +60,7 @@ export const experiencesData: any[] = [
   },
 ] as const;
 
-export const projectsData: any[] = [
+export const projectsData = [
   {
     title: "CorpComment",
     description:
@@ -94,7 +94,7 @@ export const projectsData: any[] = [
   },
 ] as const;
 
-export const skillsData: string[] = [
+export const skillsData = [
   "HTML",
   "CSS",
   "JavaScript",
